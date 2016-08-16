@@ -1,4 +1,6 @@
 typography_spectrum: 0.16153276152908802
+content_rating:
+  adult: false
 color:
   brandStrength: 0.6333040087483823
   lightness: 0.4575302640441805
@@ -11,6 +13,10 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 layout_spectrum: 0.92935143224895
+author:
+  name: Luis de Jesus Rodriguez
+  email: l.rodriguez@casadesantodomingo.com
+  url: www.luisdejesusrodriguez.com
 name: Luis de Jesus Rodriguez
 navigation:
   - name: 'ideas, preguntas y definiciones de la vida.'
