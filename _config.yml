@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.92935143224895
 name: Luis de Jesus Rodriguez
+navigation:
+  - name: 'ideas, peguntas y definiciones de la vida.'
+    url: www.luisdejesusrodriguez.com
+    type: external
 title: compartiendo el camino a la luz
 description: un dia a la vez
